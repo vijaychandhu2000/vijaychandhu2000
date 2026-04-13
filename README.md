@@ -154,7 +154,7 @@ I'm interested in opportunities where I can contribute my expertise in:
   
   📧 **Email**: [vijaychandhu2000@gmail.com](mailto:vijaychandhu2000@gmail.com)  
  
-  💻 **GitHub**: [github.com/yourprofile](https://github.com/yourprofile/)
+  💻 **GitHub**: [github.com/yourprofile](https://github.com/vijaychandhu2000)
 
   ---
 
